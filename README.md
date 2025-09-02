@@ -57,3 +57,6 @@ npm run truffle:migrate
 ```
 npm test
 ```
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:23 -->
